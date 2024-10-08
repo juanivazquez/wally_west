@@ -1,0 +1,16 @@
+# Ignore all .log files
+*.pkl
+*.msi
+
+# Ignore all directories named "node_modules"
+data/
+001_Named_Entity_Recognition/
+
+# Ignore specific file
+secrets.txt
+
+# Ignore everything in a directory
+/temp/*
+/data/*
+/models/*
+/8_other_stuff/*

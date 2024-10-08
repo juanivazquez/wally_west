@@ -1,0 +1,2 @@
+The projects folder contains large projects.
+Since each project is complex and contains modules adressing different tasks, each project is named after the alleged name fo some fictional character to keep it task agnostic. 
